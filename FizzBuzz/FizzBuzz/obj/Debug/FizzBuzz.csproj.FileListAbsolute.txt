@@ -1,0 +1,9 @@
+C:\Users\Securist\Documents\GitHub\CodeKataFizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\Securist\Documents\GitHub\CodeKataFizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\Securist\Documents\GitHub\CodeKataFizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.Form1.resources
+C:\Users\Securist\Documents\GitHub\CodeKataFizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.Properties.Resources.resources
+C:\Users\Securist\Documents\GitHub\CodeKataFizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.GenerateResource.Cache
+C:\Users\Securist\Documents\GitHub\CodeKataFizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\Securist\Documents\GitHub\CodeKataFizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\Securist\Documents\GitHub\CodeKataFizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\Securist\Documents\GitHub\CodeKataFizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
