@@ -1,0 +1,8 @@
+C:\Users\Securist\Documents\GitHub\CodeKataFizzBuzz\FizzBuzz\FizzBuzzConsole\bin\Debug\FizzBuzzConsole.exe.config
+C:\Users\Securist\Documents\GitHub\CodeKataFizzBuzz\FizzBuzz\FizzBuzzConsole\bin\Debug\FizzBuzzConsole.exe
+C:\Users\Securist\Documents\GitHub\CodeKataFizzBuzz\FizzBuzz\FizzBuzzConsole\bin\Debug\FizzBuzzConsole.pdb
+C:\Users\Securist\Documents\GitHub\CodeKataFizzBuzz\FizzBuzz\FizzBuzzConsole\bin\Debug\nunit.framework.dll
+C:\Users\Securist\Documents\GitHub\CodeKataFizzBuzz\FizzBuzz\FizzBuzzConsole\bin\Debug\nunit.framework.xml
+C:\Users\Securist\Documents\GitHub\CodeKataFizzBuzz\FizzBuzz\FizzBuzzConsole\obj\Debug\FizzBuzzConsole.csprojResolveAssemblyReference.cache
+C:\Users\Securist\Documents\GitHub\CodeKataFizzBuzz\FizzBuzz\FizzBuzzConsole\obj\Debug\FizzBuzzConsole.exe
+C:\Users\Securist\Documents\GitHub\CodeKataFizzBuzz\FizzBuzz\FizzBuzzConsole\obj\Debug\FizzBuzzConsole.pdb
